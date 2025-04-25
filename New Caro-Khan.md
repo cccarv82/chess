@@ -1,5 +1,10 @@
 # Caro-Kann Defense - Linhas Principais
 
+## 0. BASE
+
+1. e4 c6
+2. xx d5
+
 ## 1. Variante da Troca (3.exd5)
 
 1. e4 c6
@@ -61,6 +66,18 @@
 7. 0-0 e6
 
 **Armadilha**: Se 3.Qf3? dxe4! 4.Nxe4 Nf6! ganhando tempo
+
+## 6. Variante da Troca (2. Nf3)
+
+1. e4 c6
+2. Nf3 d5
+3. exd5 cxd5
+4. d4 Nc6
+5. Nc3 Bg4
+6. xx Nf6
+7. xx e6
+8. xx Be7
+9. xx O-O
 
 ## Armadilhas a Evitar ⚠️
 

@@ -1,5 +1,11 @@
 # Black London System - Linhas Principais
 
+## 0. Base
+
+1. xx d5
+2. xx Nf6
+3. xx Bf5
+
 ## 1. Setup Padrão vs d4
 
 1. d4 d5

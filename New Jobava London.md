@@ -1,6 +1,37 @@
 # Jobava London System - Linhas Principais
 
-## 1. Variante vs ...e6 (Principal)
+## 0. BASE
+
+1. d4 d5
+2. Nc3 Nf6
+3. Bf4 xx
+4. e3 xx
+5. Bd3 xx
+6. Nf3
+
+## 1. Armadilha mais comum e mais legal
+
+1. d4 d5
+2. Nc3 Nf6
+3. Bf4 Nc6
+4. Nb5 xx
+5. Nc7
+
+## 2. Variante vs ...Bf5 (Pawn Storm)
+
+1. d4 d5
+2. Nc3 Nf6
+3. Bf4 Bf5
+4. f3 e6
+5. g4 Bg6
+6. h4 h6
+7. e3 xx
+8. Bd3 Bxd3
+9. Qxd3 xx
+10. Ne2 xx
+11. O-O-O
+
+## 3. Variante vs ...e6 (Principal)
 
 1. d4 d5
 2. Nc3 e6
@@ -15,7 +46,7 @@
 
 **Armadilha**: Se 3...Nf6? 4.e4! dxe4 5.Nxe4 com vantagem
 
-## 2. Variante vs ...Bf5
+## 4. Variante vs ...Bf5
 
 1. d4 d5
 2. Nc3 Bf5
@@ -30,7 +61,7 @@
 
 **Armadilha**: Se 4...Bh7? 5.e4! dxe4 6.fxe4 vantagem esmagadora
 
-## 3. Variante vs ...g6 (Com Sacrifício)
+## 5. Variante vs ...g6 (Com Sacrifício)
 
 1. d4 g6
 2. Nc3 Nf6
@@ -77,6 +108,14 @@
 6. g4! Bg6
 7. h4! h6
 8. Nxd5!
+
+## **ARMADILHA MAIS LEGAL E COMUM** (vs 3.. Nc6)
+
+1. d4 d5
+2. Nc3 Nf6
+3. Bf4 Nc6
+4. Nb5 xx
+5. Nc7
 
 ## Regras de Ouro 🌟
 
