@@ -14,6 +14,8 @@
 
 ### Processo de Tomada de Decisão
 
+Xeque primeiro, captura depois, ataque se puder — e só então decido o que fazer
+
 - **Analise as jogadas do adversário**: Pergunte sempre "Qual é a ameaça ou desvantagem da última jogada?"
 - **Só então siga seu plano**: Continue com seu plano apenas após avaliar a jogada do adversário
 - **Pense sistematicamente**: Não jogue de forma automática; analise cada posição
