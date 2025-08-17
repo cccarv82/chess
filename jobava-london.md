@@ -234,30 +234,57 @@
 - Setup Bg5-Bd3-Ne5 para pressionar f7
 - Evite trocas de bispos na diagonal a1-h8
 
-## ⚙️ Regras Práticas
+## ⭐ Para Iniciantes 480-800 ELO - SISTEMA ULTRA SIMPLIFICADO
 
-1. **Contra c5**
+### 🎯 RECEITA MÁGICA (apenas isso por 3 meses):
+1. **d4** (sempre)
+2. **Nc3** (sempre - isso é Jobava)  
+3. **Bf4** (sempre)
+4. **e3** (sempre)
+5. **Bd3** (sempre)
+6. **Nf3** (sempre)
+7. **O-O** (sempre)
 
-   - Não recapture com peão
-   - Tome com dxc5 e mantenha a tensão
-   - Busque ataques ao longo das diagonais abertas
+### 🚨 CONTRA OS 5 LANCES MAIS COMUNS DO OPONENTE:
 
-2. **Contra Bf5/Bg4**
+**Se oponente joga ...Nc6**: 
+→ Apenas continue o desenvolvimento normal
+→ NÃO precisa de Nb5 (muito complexo para 480 rating)
 
-   - Jogue f3 seguido de g4-h4
-   - Force o bispo a escolher entre recuar ou ser capturado
-   - Capture com a dama para preparar roque longo
+**Se oponente joga ...Bf5**:
+→ Continue desenvolvimento normal
+→ NÃO jogue f3+g4 (muito arriscado para iniciantes)
 
-3. **Contra fianchetto**
+**Se oponente joga ...c5**:
+→ Simplesmente dxc5! e continue desenvolvendo
+→ NÃO se preocupe em manter o peão
 
-   - Avance h4-h5 para enfraquecer a estrutura
-   - Busque ataques na ala do rei
-   - Coloque cavalos em posições centrais (e5)
+**Se oponente joga ...g6**:
+→ Continue desenvolvimento normal  
+→ NÃO force ataques prematuros
 
-4. **Jogo posicional**
-   - Após desenvolvimento completo, busque e4
-   - Proteja sempre o peão d4 adequadamente antes de e4
-   - Roque longo quando for atacar na ala do rei
+**Se oponente joga ...e6**:
+→ Continue desenvolvimento e depois jogue e4!
+
+### 🚫 ERROS QUE CUSTAM PARTIDAS (para seu nível):
+- Tentar memorizar 20 variantes diferentes
+- Fazer ataques antes de completar desenvolvimento  
+- Mover a dama muito cedo
+- Esquecer de rocar
+
+### 📚 FOQUE APENAS NISSO POR 2 MESES:
+1. **Decore** a sequência d4-Nc3-Bf4-e3-Bd3-Nf3-O-O
+2. **Pratique** até conseguir jogar sem pensar
+3. **Depois do roque**, desenvolva as torres
+4. **Só então** aprenda 1 plano de meio-jogo
+
+### ✅ VANTAGENS da Jobava para 480 rating:
+- Desenvolvimento automático (menos decisões = menos erros)
+- Funciona contra QUALQUER resposta do oponente
+- Você sempre fica com posição sólida
+- Oponente não conhece (vantagem psicológica)
+
+**REGRA DE OURO**: Se não sabe o que fazer, complete o desenvolvimento!
 
 ## ⚡ Ideias Anti-Teoria
 

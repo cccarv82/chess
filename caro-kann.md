@@ -186,20 +186,43 @@
 - **Tática**: Manobra de cavalo longa para d5 via c8-b6
 - **Contra-jogo**: Ataque peão e5 que não pode ser defendido por peões
 
-## ⭐ Para Iniciantes (Abaixo de 1000 ELO)
+## ⭐ Para Iniciantes 480-800 ELO - FOQUE APENAS NISSO
 
-### Priorize estes conceitos:
+### 🎯 RECEITA BÁSICA (decore de cor):
+1. **1.e4 c6** (sempre!)  
+2. **2.d4 d5** (sempre!)
+3. **Se 3.exd5**: jogue cxd5 e coloque Bf5!
+4. **Se 3.e5**: jogue Bf5! ANTES de qualquer coisa
+5. **Se 3.Nc3**: jogue dxe4, depois Bf5!
 
-1. **Segurança primeiro**: Complete o desenvolvimento antes de atacar
-2. **Sequência simples**: c6 > d5 > Bf5 > e6 > Bd6/e7 > 0-0
-3. **Reconhecimento de peões fracos**: Aprenda a identificar e atacar
-4. **Regra de proteção**: Sempre ataque peças inimigas que entram em seu território
+### 🚨 ARMADILHA MORTAL - APRENDA ISSO:
+**Contra "Ataque dos 2 Cavalos"**:
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 **Nf6!!**
+5.Nxf6+ exf6 → Você fica com par de bispos + coluna e aberta
 
-### Erros fatais a evitar:
+**Se brancas jogam 5.Ng5??** (erro comum até 1000 ELO):
+5...h6! 6.Nxf7?? Kxf7 e você ganhou uma peça!
 
-- Desenvolver a dama muito cedo
-- Avançar peões do roque sem motivo
-- Ignorar o centro para atacar no flanco
-- Esquecer de completar o desenvolvimento
+### 🎲 DEFESA CONTRA ATAQUES BOBOS (comum em 480 rating):
 
-Lembre-se: Na Caro-Kann você joga posicionalmente, não taticamente. Evite investidas arriscadas e busque vantagens posicionais sólidas!
+**Ataque "Fried Liver" fajuto**:
+1.e4 c6 2.Nf3 d5 3.Bc4?? (tentando atacar f7)
+**Resposta**: 3...dxe4! 4.Nxe4 Nf6! e você está melhor
+
+**Scholar's Mate adaptada**:  
+1.e4 c6 2.Bc4 d5 3.Qh5?? (atacando f7)
+**Resposta**: 3...g6! 4.Qf3 Nf6 e o ataque morreu
+
+### 🚫 NUNCA FAÇA ISSO (erros fatais em 480 rating):
+- Jogar ...e6 antes de desenvolver o bispo (prisão do bispo!)
+- Mover a dama muito cedo (será atacada)
+- Esquecer de rocar até jogada 10
+- Capturar peões no centro se isso atrasar desenvolvimento
+
+### 📚 PLANO DE ESTUDOS PARA 480 RATING:
+**Semana 1**: Decore as 3 respostas principais (exd5/e5/Nc3)
+**Semana 2**: Pratique contra ataques bobos do oponente
+**Semana 3**: Aprenda a colocar peças nas casas certas
+**Semana 4**: Estude 1 final básico (rei + peão vs rei)
+
+Lembre-se: **DESENVOLVIMENTO > ATAQUES** sempre!

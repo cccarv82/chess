@@ -10,27 +10,40 @@
 6. [Meio-jogo e Estratégia Posicional](#meio-jogo-e-estratégia-posicional)
 7. [Finais](#finais)
 
-## Princípios Fundamentais
+## Princípios Fundamentais PARA 480 RATING
 
-### Processo de Tomada de Decisão
+### Processo de Tomada de Decisão SIMPLIFICADO
 
-Xeque primeiro, captura depois, ataque se puder — e só então decido o que fazer
+**ORDEM DE PRIORIDADE** (sempre nessa sequência):
+1. **Meu rei está seguro?** (se não, resolva AGORA)
+2. **Posso capturar algo de graça?** (peças desprotegidas)  
+3. **Estou sendo atacado?** (defenda primeiro, ataque depois)
+4. **Posso completar desenvolvimento?** (cavalos, bispos, roque)
+5. **SÓ ENTÃO** penso em atacar
 
-- **Analise as jogadas do adversário**: Pergunte sempre "Qual é a ameaça ou desvantagem da última jogada?"
-- **Só então siga seu plano**: Continue com seu plano apenas após avaliar a jogada do adversário
-- **Pense sistematicamente**: Não jogue de forma automática; analise cada posição
+### Integração com suas ABERTURAS
 
-### Avaliação da Posição
+**Com Jobava London (brancas)**:
+- Sempre pergunta: "completei d4-Nc3-Bf4-e3-Bd3-Nf3-O-O?"
+- Se sim, procure e4! para ganhar espaço
+- Se não, continue o desenvolvimento
 
-- **Valor das peças**: Peão (1), Cavalo (3), Bispo (3¼), Torre (5), Dama (9)
-- **Bispos vs. Cavalos**: Bispos são ligeiramente melhores que cavalos em geral
-- **Espaço**: Quem tem mais peões no centro geralmente tem mais espaço e domina o jogo
+**Com Caro-Kann (pretas vs e4)**:
+- Sempre pergunta: "meu bispo saiu da cadeia de peões?"
+- Bf5! ANTES de e6 (senão fica preso)
+- Complete desenvolvimento antes de atacar
 
-### Erros Comuns a Evitar
+**Com King's Indian (pretas vs d4)**:
+- Sempre pergunta: "fiz o fianchetto Nf6-g6-Bg7-O-O?"
+- e5! é quase sempre bom quando seguro
+- f5! só quando tiver peças coordenadas
 
-- **Contra-ataques impulsivos**: Não lance contra-ataques sem avaliar a posição
-- **Desenvolvimento prematuro da dama**: Evite mover a dama cedo sem necessidade
-- **Medo de recuar**: Recuar é parte do xadrez; não tenha receio de fazer isso quando necessário
+### Erros MORTAIS para 480 rating
+
+- **Xeque só por dar xeque**: Xeque que não ganha material é perda de tempo
+- **Atacar sem desenvolvimento**: 90% das derrotas vêm disso
+- **Mover a mesma peça 2x na abertura**: Cada movimento deve desenvolver algo novo
+- **Ignorar ameaças do oponente**: Sempre pergunta "que ameaça ele criou?"
 
 ## Reconhecimento de Padrões
 
@@ -128,19 +141,31 @@ Xeque primeiro, captura depois, ataque se puder — e só então decido o que fa
 - **Proteção eficiente**: Use peças de menor valor para proteger peões (poupando energia)
 - **Torres conectadas**: Mantenha as torres protegendo-se mutuamente
 
-## Finais
+## 🎯 CHECKLIST de ESTUDO para 480→800 rating
 
-### Vantagem Material
+### SEMANA 1-2: Memorização Automática
+- [ ] Jobava: d4-Nc3-Bf4-e3-Bd3-Nf3-O-O (sem pensar)
+- [ ] Caro-Kann: c6-d5-Bf5 (nas 3 variantes principais)  
+- [ ] King's Indian: Nf6-g6-Bg7-O-O (sempre funciona)
 
-- **Troque peças quando estiver à frente**: Se você tem vantagem material, troque peças
-- **Promova peões**: Converta vantagem material em peões passados e promoção
+### SEMANA 3-4: Reconhecimento de Padrões  
+- [ ] Identificar quando oponente deixa peças desprotegidas
+- [ ] Responder automaticamente às 3 tentativas de ataque mais comuns
+- [ ] Completar desenvolvimento em TODAS as partidas
 
-### Posicionamento do Rei
+### SEMANA 5-6: Meio-jogo Básico
+- [ ] Aprender 3 finais básicos (Rei+Dama vs Rei, etc.)
+- [ ] Reconhecer quando trocar peças (quando à frente em material)
+- [ ] Torres nas colunas abertas
 
-- **Rei ativo no final**: Ao contrário do meio-jogo, o rei deve ser ativo no final
-- **Oposição**: Posicione seu rei de forma a controlar casas-chave
+### SEMANA 7-8: Consolidação
+- [ ] Jogar 50 partidas blitz de 10min aplicando o aprendido
+- [ ] Revisar erros mais comuns
+- [ ] Subir para 800+ rating
 
-### Torres
+### 📊 ESTATÍSTICAS para acompanhar:
+- Quantas partidas você perde peças por garfos básicos? (meta: 0)
+- Quantas partidas você esquece de rocar até jogada 15? (meta: 0)  
+- Quantas partidas você ataca antes de completar desenvolvimento? (meta: 0)
 
-- **Torres atrás de peões passados**: Coloque torres atrás de peões passados, não à frente
-- **Torres na 2ª/7ª fileira**: São posições ideais para torres
+**LEMBRE-SE**: Você só precisa cometer MENOS erros que o oponente para vencer!
